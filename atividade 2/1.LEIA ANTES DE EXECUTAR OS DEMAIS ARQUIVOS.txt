@@ -1,0 +1,6 @@
+O arquivo'exclusão_de_dados_para_fazer_testes_com_diferentes_dados.sql' serve para que voce possa mudar
+o numero de dados que são gerados quando se executa a tabela dados, ela ja contem explicações 'detalhadas'
+de como funcionam, então voce podedefinir quantos dados serão como prefirir.
+
+Alem de que eu preferi criar um sistema para gerar dados aleatoriamente de tarefas que foram cadastradas para que
+eu tenha certeza que o sistema esta funcionando mesmo que os dados não sejam fixos.
